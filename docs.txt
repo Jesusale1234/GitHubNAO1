@@ -1,2 +1,1 @@
-This is the branch B doc.txt.
-
+This is a docs.txt for the branches to merge.
